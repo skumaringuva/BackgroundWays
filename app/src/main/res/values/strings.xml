@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">BackgroundWays</string>
+
+
+    <array name="background_type">
+        <item name="Direct">Direct</item>
+        <item name="Thread">Thread</item>
+        <item name="AsyncTask">AsyncTask</item>
+        <item name="IntentService">IntentService</item>
+        <item name="Loader">Loader</item>
+        <item name="JobScheduler">JobScheduler</item>
+        <item name="GCMNetworkManager">GCMNetworkManager</item>
+        <item name="CountDownTimer">CountDownTimer</item>
+        <item name="FutureTask">FutureTask</item>
+        <item name="ThreadPoolExecutor">ThreadPoolExecutor</item>
+        <item name="ServiceWithAidl">ServiceWithAidl</item>
+<!--
+        <item name="ServiceConnection">ServiceConnection</item>
+-->
+
+    </array>
+
+
+</resources>
